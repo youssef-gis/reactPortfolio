@@ -3,8 +3,6 @@ import Header from './sections/header/Header';
 import About from './sections/about/About';
 import Services from './sections/services/Services';
 import Portfolio from './sections/portfolio/Portfolio';
-import Testimonials from './sections/testimonials/Testimonials';
-import FAQs from './sections/faqs/FAQs';
 import Contact from './sections/contact/Contact';
 import Footer from './sections/footer/Footer';
 import FloatingNav from './sections/floating-nav/FloatingNav';
@@ -39,7 +37,7 @@ const App = () => {
   useEffect(()=>{
     const checkYposition = setInterval(FloatingNavHandler, 2000)
     return ()=>clearInterval(checkYposition)
-  }, [yPosition])
+  }, [ yPosition])
   return (
     <main className={`${themeState.primary} ${themeState.background}`} ref={mainRef}>
         <Navbar/>
@@ -47,8 +45,6 @@ const App = () => {
         <About/>
         <Services/>
         <Portfolio/>
-        {/* <Testimonials/>
-        <FAQs/> */}
         <Contact/>
         <Footer/>
         {showFloatingNav && <FloatingNav/>}

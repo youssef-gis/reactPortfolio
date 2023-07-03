@@ -12,7 +12,7 @@ export const ThemeProvider = ( {children} ) =>{
 
     useEffect(()=>{
          localStorage.setItem('themeColors', JSON.stringify(themeState))
-    }, [themeState.primary, themeState.background])
+    }, [themeState.primary, themeState.background, themeState])
 
     return <ThemeContext.Provider value={{themeState, themeHandler}} >{children}</ThemeContext.Provider>
 }
