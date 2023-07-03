@@ -32,7 +32,7 @@ const About = () => {
             clients all over the world, I'm always motivated to do more!
           </p>
           <p>
-            Hi, my name is Arhrib Youssef from Tangier, Benslimane. I'm a Geospatial 
+            Hi, my name is Arhrib Youssef from Tangier, Morocco. I'm a Geospatial 
             Software Engineer with a Bachelors degree in Geoinformatics. My top
             priority is to get your business online the right way, giving you
             industry-standard design and all the functionality you need to
