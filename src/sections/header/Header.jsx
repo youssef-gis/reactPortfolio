@@ -18,7 +18,7 @@ const Header = () => {
         <h3 data-aos="fade-up">Youssef Arhrib</h3>
         <p data-aos="fade-up">
           As a geographic information system (GIS) engineer. I am Passionate about using new technologies to solve
-          problems that have a spatial spatial aspects.
+          problems that have a spatial aspects.
         </p>
         <div className="header__cta" >
           <a href="#contact" className="btn primary" data-aos="fade-up">
