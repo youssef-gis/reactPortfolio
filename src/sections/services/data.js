@@ -1,4 +1,4 @@
-import {SiAdobexd} from 'react-icons/si'
+import {IoMdAnalytics} from 'react-icons/io'
 import {RiReactjsLine} from 'react-icons/ri'
 import {FaServer} from 'react-icons/fa'
 import {AiFillAppstore} from 'react-icons/ai'
