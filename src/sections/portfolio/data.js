@@ -1,4 +1,5 @@
 import Image1 from "../../assets/project1.jpg";
+import Image10 from "../../assets/project10.jpg";
 import Image2 from "../../assets/project2.jpg";
 
 import Image7 from "../../assets/project7.jpg";
@@ -44,7 +45,7 @@ const data = [
    {
     id: 5,
     category: "data analysis",
-    image: Image1,
+    image: Image10,
     title: "Analysis of global warming (Data Analysis)",
     desc: "Analysis of global warming involves examining the causes, impacts, and potential solutions related to the increase in Earth's average surface temperature over time.",
     demo: "https://github.com/youssef-gis/Analysis_of_global_warming",
