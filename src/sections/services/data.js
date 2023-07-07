@@ -6,7 +6,7 @@ import {AiFillAppstore} from 'react-icons/ai'
 
 const data = [
     {
-        id: 1, icon: <IoMdAnalytics/>, title: 'Data Analysis', desc: "My services involve extracting, analyzing, and interpreting data to drive informed decision-making and solve complex problems. the work lies in working with various data sources, applying statistical methods, and utilizing analytical tools to derive meaningful insights."
+        id: 1, icon: <IoMdAnalytics/>, title: 'Data Analysis', desc: "My services involve extracting, analyzing, and interpreting data to drive informed decision-making and solve complex problems."
     },
     {
         id: 2, icon: <RiReactjsLine/>, title: 'Frontend Development', desc: "Your product will look good and will be accessible on all devices, including mobile phones, tablets, and desktop."
