@@ -48,8 +48,8 @@ const data = [
     image: Image10,
     title: "Analysis of global warming (Data Analysis)",
     desc: "Analysis of global warming involves examining the causes, impacts, and potential solutions related to the increase in Earth's average surface temperature over time.",
-    demo: "https://github.com/youssef-gis/Analysis_of_global_warming",
-    github: "https://github.com/youssef-gis/Zomato-Spatial-Analysis",
+    demo: "",
+    github: "https://github.com/youssef-gis/Analysis_of_global_warming",
   },
 
 ];
