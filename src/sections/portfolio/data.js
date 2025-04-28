@@ -56,7 +56,7 @@ const data = [
     category: "data analysis",
     image: Image11,
     title: "Uncovering Crime Trends in the City of Angels with Python (Data Analysis)",
-    desc: "Los Angeles is a sprawling metropolis known for its beaches, entertainment industry, and cultural diversity. But beneath the surface lies a complex web of urban challenges, one of which is crime. In this blog post, we’ll take a data-driven look at crime in Los Angeles using Python, exploring patterns, trends, and insights hidden in publicly available crime data.",
+    desc: "Los Angeles is a sprawling metropolis known for its beaches, entertainment industry, and cultural diversity. But beneath the surface lies a complex web of urban challenges, one of which is crime.We’ll take a data-driven look at crime in Los Angeles using Python, exploring patterns, trends, and insights hidden in publicly available crime data.",
     demo: "",
     github: "https://github.com/youssef-gis/Los-Angeles-crimes-Analysis",
   },
