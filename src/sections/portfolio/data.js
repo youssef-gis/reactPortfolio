@@ -9,7 +9,7 @@ import Image12 from "../../assets/project12.jpg";
 const data = [
     {
     id: 1,
-    category: "data analysis",
+    category: "data mining",
     image: Image12,
     title: "Automated Scraper for Marathon Race Results (Data Mining)",
     desc: "This project focuses on mining marathon race results from multiple publicly available websites, each with its own structure and pagination system. I developed a custom Python scraping pipeline to extract detailed runner performance data and race metadata, which is then cleaned and compiled into a structured CSV file.",
