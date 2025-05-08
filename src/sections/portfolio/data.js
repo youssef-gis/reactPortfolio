@@ -9,6 +9,15 @@ import Image12 from "../../assets/project12.jpg";
 const data = [
     {
     id: 1,
+    category: "data analysis",
+    image: Image12,
+    title: "📊 Data Analytics with SQL: Classic Models Case Study (Data Analysis)",
+    desc: "This project demonstrates practical SQL skills applied to real-world business scenarios using the Classic Models sample database. It includes advanced query examples for calculating sales performance, customer trends, product profitability, and more. Ideal for showcasing SQL knowledge in data analytics, reporting, and data-driven decision making.",       
+    demo: "",
+    github: "https://github.com/youssef-gis/SQL-Classic-models-Analytics",
+  },
+    {
+    id: 2,
     category: "data mining",
     image: Image12,
     title: "Automated Scraper for Marathon Race Results (Data Mining)",
@@ -17,7 +26,7 @@ const data = [
     github: "https://github.com/youssef-gis/Scraping-Marathon-Results",
   },
   {
-    id: 2,
+    id: 3,
     category: "data analysis",
     image: Image1,
     title: "GeoSpatial Analysis - Zomato Data Analysis Project 🔥 (Data Analysis)",
@@ -26,7 +35,7 @@ const data = [
     github: "https://github.com/youssef-gis/Zomato-Spatial-Analysis",
   },
   {
-    id: 3,
+    id: 4,
     category: "data analysis",
     image: Image10,
     title: "Analysis of global warming (Data Analysis)",
@@ -35,7 +44,7 @@ const data = [
     github: "https://github.com/youssef-gis/Analysis_of_global_warming",
   },
   {
-    id: 4,
+    id: 5,
     category: "data analysis",
     image: Image11,
     title: "Uncovering Crime Trends in the City of Angels with Python (Data Analysis)",
@@ -44,7 +53,7 @@ const data = [
     github: "https://github.com/youssef-gis/Los-Angeles-crimes-Analysis",
   },
   {
-    id: 5,
+    id: 6,
     category: "frontend",
     image: Image2,
     title: "Real Estate geoAppLication (Frontend)",
@@ -53,7 +62,7 @@ const data = [
     github: "https://github.com/youssef-gis/real-estate-webapp_frontend",
   },
   {
-    id: 6,
+    id: 7,
     category: "backend",
     image: Image7,
     title: " WEB-GIS application for BI business management and mapping (Backend)",
@@ -62,7 +71,7 @@ const data = [
     github: "https://github.com/youssef-gis/affaires_bi_ouarzazate",
   },
   {
-    id: 7,
+    id: 8,
     category: "backend",
     image: Image2,
     title: "Real Estate geoAppLication (Backend)",
