@@ -5,9 +5,18 @@ import Image11 from "../../assets/project11.jpg";
 import Image7 from "../../assets/project7.jpg";
 import Image12 from "../../assets/project12.jpg";
 import Image13 from "../../assets/project13.jpg";
-
+import Image14 from "../../assets/project14.jpg";
 
 const data = [
+    {
+    id: 1,
+    category: "data analysis",
+    image: Image14,
+    title: "🗺️ Network Analysis of Paris's Streets with Python (Data Analysis)",
+    desc: "This project applies network analysis techniques to explore and understand the structure of Paris's road network using Python. By leveraging powerful tools like OSMnx, NetworkX, GeoPandas, and Folium, the project extracts, analyzes, and visualizes urban infrastructure to uncover hidden patterns in city design and transportation flow.",       
+    demo: "",
+    github: "https://nbviewer.org/github/youssef-gis/Road-Network-Analysis/blob/main/road_network_analysis.ipynb",
+  },
     {
     id: 1,
     category: "data analysis",
