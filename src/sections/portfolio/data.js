@@ -6,10 +6,20 @@ import Image7 from "../../assets/project7.jpg";
 import Image12 from "../../assets/project12.jpg";
 import Image13 from "../../assets/project13.jpg";
 import Image14 from "../../assets/project14.jpg";
+import Image15 from "../../assets/project15.jpg";
 
 const data = [
+ {
+  id: 1,
+  category: "data analysis",
+  image: Image15,
+  title: "🚗 NYC Vehicle Crashes Data Analysis (2021–2024)",
+  desc: "This project analyzes vehicle crash data in New York City from 2021 to 2024 using Python. It covers data cleaning, temporal and spatial analysis, and visualization of crash trends by borough, vehicle type, time, and contributing factors. Tools used include Pandas, Seaborn, Matplotlib, GeoPandas, and Folium.",
+  demo: "",
+  github: "https://nbviewer.org/github/youssef-gis/nyc_vehicule_collisions/blob/main/nyc_vehicule_collisions.ipynb"
+}
     {
-    id: 1,
+    id: 2,
     category: "data analysis",
     image: Image14,
     title: "🗺️ Network Analysis of Paris's Streets with Python (Data Analysis)",
@@ -18,7 +28,7 @@ const data = [
     github: "https://nbviewer.org/github/youssef-gis/Road-Network-Analysis/blob/main/road_network_analysis.ipynb",
   },
     {
-    id: 2,
+    id: 3,
     category: "data analysis",
     image: Image13,
     title: "📊 Data Analytics with SQL: Classic Models Case Study (Data Analysis)",
@@ -27,7 +37,7 @@ const data = [
     github: "https://github.com/youssef-gis/SQL-Classic-models-Analytics",
   },
     {
-    id: 3,
+    id: 4,
     category: "data mining",
     image: Image12,
     title: "Automated Scraper for Marathon Race Results (Data Mining)",
@@ -36,7 +46,7 @@ const data = [
     github: "https://github.com/youssef-gis/Scraping-Marathon-Results",
   },
   {
-    id: 4,
+    id: 5,
     category: "data analysis",
     image: Image1,
     title: "📊 GeoSpatial Analysis - Zomato Data Analysis Project 🔥 (Data Analysis)",
@@ -45,7 +55,7 @@ const data = [
     github: "https://github.com/youssef-gis/Zomato-Spatial-Analysis",
   },
   {
-    id: 5,
+    id: 6,
     category: "data analysis",
     image: Image10,
     title: "📊 Analysis of global warming (Data Analysis)",
@@ -54,7 +64,7 @@ const data = [
     github: "https://github.com/youssef-gis/Analysis_of_global_warming",
   },
   {
-    id: 6,
+    id: 7,
     category: "data analysis",
     image: Image11,
     title: "Uncovering Crime Trends in the City of Angels with Python (Data Analysis)",
@@ -63,7 +73,7 @@ const data = [
     github: "https://github.com/youssef-gis/Los-Angeles-crimes-Analysis",
   },
   {
-    id: 7,
+    id: 8,
     category: "frontend",
     image: Image2,
     title: "Real Estate geoAppLication (Frontend)",
@@ -72,7 +82,7 @@ const data = [
     github: "https://github.com/youssef-gis/real-estate-webapp_frontend",
   },
   {
-    id: 8,
+    id: 9,
     category: "backend",
     image: Image7,
     title: " WEB-GIS application for BI business management and mapping (Backend)",
@@ -81,7 +91,7 @@ const data = [
     github: "https://github.com/youssef-gis/affaires_bi_ouarzazate",
   },
   {
-    id: 9,
+    id: 10,
     category: "backend",
     image: Image2,
     title: "Real Estate geoAppLication (Backend)",
