@@ -17,7 +17,7 @@ const data = [
   desc: "This project analyzes vehicle crash data in New York City from 2021 to 2024 using Python. It covers data cleaning, temporal and spatial analysis, and visualization of crash trends by borough, vehicle type, time, and contributing factors. Tools used include Pandas, Seaborn, Matplotlib, GeoPandas, and Folium.",
   demo: "",
   github: "https://nbviewer.org/github/youssef-gis/nyc_vehicule_collisions/blob/main/nyc_vehicule_collisions.ipynb"
-}
+},
     {
     id: 2,
     category: "data analysis",
