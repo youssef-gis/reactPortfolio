@@ -83,15 +83,6 @@ const data = [
     github: "https://github.com/youssef-gis/Los-Angeles-crimes-Analysis",
   },
   {
-    id: 9,
-    category: "frontend",
-    image: Image2,
-    title: "Real Estate geoAppLication (Frontend)",
-    desc: "Build a location-based real estate webapplication. Which it is going to be a full stack web application with GeoDjango powering the backend and React Js the frontend. The frontend was built using Material UI which is an intuitive React library for building UI components.",
-    demo: "",
-    github: "https://github.com/youssef-gis/real-estate-webapp_frontend",
-  },
-  {
     id: 10,
     category: "backend",
     image: Image7,
