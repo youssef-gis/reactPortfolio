@@ -14,10 +14,10 @@ const data = [
   id: 1,
   category: "data visualization",
   image: Image16,
-  title: "🚗 NYC Vehicle Crashes Data Analysis (2021–2024)",
-  desc: "This project analyzes vehicle crash data in New York City from 2021 to 2024 using Python. It covers data cleaning, temporal and spatial analysis, and visualization of crash trends by borough, vehicle type, time, and contributing factors. Tools used include Pandas, Seaborn, Matplotlib, GeoPandas, and Folium.",
-  demo: "",
-  github: "https://nbviewer.org/github/youssef-gis/nyc_vehicule_collisions/blob/main/nyc_vehicule_collisions.ipynb"
+  title: "🚲 Bike Sales Dashboard",
+  desc: "Developed an interactive Tableau dashboard to analyze bike sales performance across regions, product categories, and customer segments. The dashboard enables dynamic filtering and visualization of key sales indicators, helping stakeholders understand trends and opportunities.",
+  demo: "https://public.tableau.com/app/profile/youssef.arhrib/viz/BikeSalesDashboard_17488094209810/Dashboard1?publish=yes",
+  github: ""
 },
  {
   id: 2,
