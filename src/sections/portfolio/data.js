@@ -16,7 +16,7 @@ const data = [
   image: Image16,
   title: "🚲 Bike Sales Dashboard",
   desc: "Developed an interactive Tableau dashboard to analyze bike sales performance across regions, product categories, and customer segments. The dashboard enables dynamic filtering and visualization of key sales indicators, helping stakeholders understand trends and opportunities.",
-  demo: "",
+  demo: "https://public.tableau.com/app/profile/youssef.arhrib/viz/BikeSalesDashboard_17488094209810/Dashboard1?publish=yes",
   github: "https://public.tableau.com/app/profile/youssef.arhrib/viz/BikeSalesDashboard_17488094209810/Dashboard1?publish=yes"
 },
  {
