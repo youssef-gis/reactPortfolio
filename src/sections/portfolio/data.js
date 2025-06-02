@@ -12,7 +12,7 @@ import Image16 from "../../assets/project16.jpg";
 const data = [
   {
   id: 1,
-  category: "data visualization",
+  category: "data analysis",
   image: Image16,
   title: "🚲 Bike Sales Dashboard",
   desc: "Developed an interactive Tableau dashboard to analyze bike sales performance across regions, product categories, and customer segments. The dashboard enables dynamic filtering and visualization of key sales indicators, helping stakeholders understand trends and opportunities.",
