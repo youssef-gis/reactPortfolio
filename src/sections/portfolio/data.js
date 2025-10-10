@@ -9,10 +9,20 @@ import Image14 from "../../assets/project14.jpg";
 import Image15 from "../../assets/project15.jpg";
 import Image16 from "../../assets/project16.jpg";
 import Image17 from "../../assets/project17.png";
+import Image18 from "../../assets/project18.png";
 
 const data = [
    {
     id: 1,
+    category: "Front End",
+    image: Image18,
+    title: "Modern E-Commerce Platform",
+    desc: "A fully functional e-commerce platform built with Next.js 15, Tailwind CSS v4, and TypeScript. Features include a dynamic product carousel, responsive product pages with interactive cart controls, real-time cart state using Zustand, and secure Stripe checkout integration.",
+    demo: "",
+    github: "https://github.com/youssef-gis/Ecommerce-Platform",
+   },
+   {
+    id: 2,
     category: "Front End",
     image: Image17,
     title: "Best Movies Explorer (Front End)",
@@ -21,7 +31,7 @@ const data = [
     github: "https://github.com/youssef-gis/best_movies",
   },
   {
-  id: 2,
+  id: 3,
   category: "data visualization",
   image: Image16,
   title: "🚲 Bike Sales Dashboard",
@@ -30,7 +40,7 @@ const data = [
   github: "https://public.tableau.com/app/profile/youssef.arhrib/viz/BikeSalesDashboard_17488094209810/Dashboard1?publish=yes"
 },
  {
-  id: 3,
+  id: 4,
   category: "data analysis",
   image: Image15,
   title: "🚗 NYC Vehicle Crashes Data Analysis (2021–2024)",
@@ -39,7 +49,7 @@ const data = [
   github: "https://nbviewer.org/github/youssef-gis/nyc_vehicule_collisions/blob/main/nyc_vehicule_collisions.ipynb"
 },
     {
-    id: 4,
+    id: 5,
     category: "data analysis",
     image: Image14,
     title: "🗺️ Network Analysis of Paris's Streets with Python (Data Analysis)",
@@ -48,7 +58,7 @@ const data = [
     github: "https://nbviewer.org/github/youssef-gis/Road-Network-Analysis/blob/main/road_network_analysis.ipynb",
   },
     {
-    id: 5,
+    id: 6,
     category: "data analysis",
     image: Image13,
     title: "📊 Data Analytics with SQL: Classic Models Case Study (Data Analysis)",
@@ -57,7 +67,7 @@ const data = [
     github: "https://github.com/youssef-gis/SQL-Classic-models-Analytics",
   },
     {
-    id: 6,
+    id: 7,
     category: "data mining",
     image: Image12,
     title: "Automated Scraper for Marathon Race Results (Data Mining)",
@@ -66,7 +76,7 @@ const data = [
     github: "https://github.com/youssef-gis/Scraping-Marathon-Results",
   },
   {
-    id: 7,
+    id: 8,
     category: "data analysis",
     image: Image1,
     title: "📊 GeoSpatial Analysis - Zomato Data Analysis Project 🔥 (Data Analysis)",
@@ -75,7 +85,7 @@ const data = [
     github: "https://github.com/youssef-gis/Zomato-Spatial-Analysis",
   },
   {
-    id: 8,
+    id: 9,
     category: "data analysis",
     image: Image10,
     title: "📊 Analysis of global warming (Data Analysis)",
@@ -84,7 +94,7 @@ const data = [
     github: "https://github.com/youssef-gis/Analysis_of_global_warming",
   },
   {
-    id: 9,
+    id: 10,
     category: "data analysis",
     image: Image11,
     title: "Uncovering Crime Trends in the City of Angels with Python (Data Analysis)",
@@ -93,7 +103,7 @@ const data = [
     github: "https://github.com/youssef-gis/Los-Angeles-crimes-Analysis",
   },
   {
-    id: 10,
+    id: 11,
     category: "backend",
     image: Image7,
     title: " WEB-GIS application for BI business management and mapping (Backend)",
@@ -102,7 +112,7 @@ const data = [
     github: "https://github.com/youssef-gis/affaires_bi_ouarzazate",
   },
   {
-    id: 11,
+    id: 12,
     category: "backend",
     image: Image2,
     title: "Real Estate geoAppLication (Backend)",
