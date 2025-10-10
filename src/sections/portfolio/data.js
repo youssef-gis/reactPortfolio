@@ -9,7 +9,7 @@ import Image14 from "../../assets/project14.jpg";
 import Image15 from "../../assets/project15.jpg";
 import Image16 from "../../assets/project16.jpg";
 import Image17 from "../../assets/project17.png";
-import Image18 from "../../assets/project18.png";
+import Image18 from "../../assets/project18.jpg";
 
 const data = [
    {
