@@ -20,7 +20,7 @@ const data = [
     title: "Spellbrush – AI-Powered Image Editing SaaS",
     desc: "Spellbrush is an AI-driven image editor built with Next.js and Tailwind CSS that lets users enhance, transform, and manage images effortlessly. It combines a modern UI, fast image storage, and secure authentication to deliver a seamless editing experience.",
     demo: "",
-    github: "github.com/youssef-gis/Spellbrush",
+    github: "https://github.com/youssef-gis/Spellbrush",
    },
    {
     id: 2,
